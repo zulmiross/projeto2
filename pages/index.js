@@ -9,8 +9,7 @@ export default function Home() {
     <div>
       <h1>Projeto 2</h1>
       <p>{count}</p>
-      <button onClick={handleAddCount}>Adicionar +1</button>
-      <p>Adicionado agora</p>
+      <button onClick={handleAddCount}>Adicionar +1</button>      
     </div>
   );
 }
